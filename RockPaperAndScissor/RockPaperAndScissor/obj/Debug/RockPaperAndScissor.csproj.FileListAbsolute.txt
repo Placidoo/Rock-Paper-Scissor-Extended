@@ -1,0 +1,13 @@
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\bin\Debug\RockPaperAndScissor.exe.config
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\bin\Debug\RockPaperAndScissor.exe
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\bin\Debug\RockPaperAndScissor.pdb
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.csproj.AssemblyReference.cache
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.mainMenu.resources
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.Properties.Resources.resources
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.csproj.GenerateResource.cache
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.csproj.CoreCompileInputs.cache
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.exe
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.pdb
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.singleDrawCard.resources
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.singleGame.resources
+C:\Users\joedm\source\repos\RockPaperAndScissor\RockPaperAndScissor\obj\Debug\RockPaperAndScissor.gameOver.resources
